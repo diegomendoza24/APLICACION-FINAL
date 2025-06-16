@@ -6,7 +6,11 @@ Diseñar y desarrollar una aplicación de escritorio en Python capaz de detectar
 Objetivos Específicos
 
 1-Diseñar una interfaz de entrada sencilla que permita al usuario introducir una palabra o frase en cualquier idioma desde la consola de Python, garantizando una interacción clara y directa.
+
 2-Implementar un mecanismo automático de detección de idioma utilizando bibliotecas de procesamiento de lenguaje natural como langdetect, para identificar con precisión el código del idioma correspondiente al texto ingresado.
+
 3-Crear un sistema de conversión de códigos ISO a nombres completos de idiomas, a través de un diccionario que asocie cada código detectado con su nombre en español, facilitando la comprensión para el usuario.
+
 4-Gestionar adecuadamente los errores y ambigüedades durante el proceso de detección, especialmente en casos de entradas demasiado cortas o con múltiples posibles interpretaciones, para mantener la estabilidad y confiabilidad de la aplicación.
+
 5-Mostrar de forma clara el idioma detectado, indicando tanto su nombre completo como su código ISO, para brindar al usuario una información precisa y útil.
